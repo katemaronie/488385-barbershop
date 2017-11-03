@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Катя Шикунова](https://up.htmlacademy.ru/htmlcss/19/user/488385).
+* Наставник: [Влад Башилов](https://htmlacademy.ru/profile/id167603).
 
 ---
 
